@@ -31,10 +31,3 @@ The demo reads [`data/sample_search_response.json`](data/sample_search_response.
 
 The important boundary in this project is between provider-specific retrieval and the work a person needs to review: normalized options, transparent filters, and ranked outputs. A production version could add provider adapters, retry policies, caching, structured logging, and a richer comparison UI.
 
-## Safety Notes
-
-- synthetic data only
-- no personal travel details
-- no live availability records
-- no API keys or credentials
-- no employer code or private data
