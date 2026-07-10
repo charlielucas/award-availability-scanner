@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": "sample-001",
+      "route_id": "route-001",
+      "date": "2030-04-12",
+      "program": "Example Rewards",
+      "currency": "USD",
+      "cabins": {
+        "business": {"available": true, "miles": 62000, "direct": true, "seats": 2, "taxes": 212.5},
+        "premium_economy": {"available": true, "miles": 40000, "direct": true, "seats": 3, "taxes": 148}
+      }
+    },
+    {
+      "id": "sample-002",
+      "route_id": "route-002",
+      "date": "2030-04-13",
+      "program": "Sample Miles",
+      "currency": "USD",
+      "cabins": {
+        "business": {"available": true, "miles": 58000, "direct": false, "seats": 1, "taxes": 163},
+        "economy": {"available": true, "miles": 26000, "direct": false, "seats": 5, "taxes": 78}
+      }
+    },
+    {
+      "id": "sample-003",
+      "route_id": "route-003",
+      "date": "2030-04-14",
+      "program": "Demo Air Awards",
+      "currency": "USD",
+      "cabins": {
+        "business": {"available": true, "miles": 68000, "direct": true, "seats": 2, "taxes": 106},
+        "first": {"available": false, "miles": 105000, "direct": true, "seats": 1, "taxes": 190}
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+record_id,route_id,origin,destination,date,program,cabin,miles,direct,seats,taxes,currency
+sample-002,route-002,AAA,BBB,2030-04-13,Sample Miles,economy,26000,False,5,78.0,USD
+sample-001,route-001,AAA,BBB,2030-04-12,Example Rewards,premium_economy,40000,True,3,148.0,USD
+sample-002,route-002,AAA,BBB,2030-04-13,Sample Miles,business,58000,False,1,163.0,USD
+sample-001,route-001,AAA,BBB,2030-04-12,Example Rewards,business,62000,True,2,212.5,USD
+sample-003,route-003,AAA,BBB,2030-04-14,Demo Air Awards,business,68000,True,2,106.0,USD
